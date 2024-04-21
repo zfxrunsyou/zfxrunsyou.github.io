@@ -46,7 +46,7 @@ We are **legal.**
 # FAQ:
 **Q: ZFX used their tools on me, but I didn't do anything wrong?**
 
-A: # Protection of Children Act 1978 1978 (PCA 1978) – s 1. Criminal Justice Act 1988 (CJA 1988) – s 160:
+A: Law Protection of Children Act 1978 1978 (PCA 1978) – s 1. Criminal Justice Act 1988 (CJA 1988) – s 160:
 
 1. Pornography is a term used when someone partakes in a sexual interaction with someone below the AOC whilst being above the AOC.
 
@@ -56,7 +56,7 @@ A: # Protection of Children Act 1978 1978 (PCA 1978) – s 1. Criminal Justice A
 -AOC: Age of consent
 -JT: Juvenile Detention / Jailtime (Dependent on age)
 
-Both categorized as a** FELONY.**
+Both categorized as a FELONY.
 1. JT: 5 - 15 Years
 2. JT: 104 Months: 8.66 Yrs - Life Sen
 
