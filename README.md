@@ -12,7 +12,7 @@
       https://github.com/zfxrunsyou/MultiTool
 
 # PRODUCTS
-(YOU PAY FIRST)
+*(YOU PAY FIRST)*
 
 **DISCORD NITRO**
 
