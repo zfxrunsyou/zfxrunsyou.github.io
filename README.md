@@ -1,4 +1,5 @@
 <a href="https://discord.gg/zfx"> # ZFX NETWORK </a>
+
       The main zfx discord server can be found below:
                    (discord.gg/zfx)
                         or
