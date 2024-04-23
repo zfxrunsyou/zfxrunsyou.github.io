@@ -9,9 +9,9 @@
 
 # ALTERNATIVE SERVERS
 
-# RESPITORIES
+# POSITIONS
 
-      https://github.com/zfxrunsyou/MultiTool
+      
 
 # PRODUCTS
 *(YOU PAY FIRST)*
