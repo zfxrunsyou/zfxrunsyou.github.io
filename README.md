@@ -11,8 +11,32 @@
 
 # POSITIONS
 
-      
-
+     -zfx (zedarra) ~ Owner  
+     -AustinX0X (joseph.tn) ~ Operative Associate
+     
+     ==============================================================
+     
+     -avatar (avatar020) ~ UNC TF
+     
+     ==============================================================
+     
+     -Marvel's new main (gari_beta) ~ AT Supervisor
+     -Lspiter (lspiter) ~ AT Supervisor
+     
+     ==============================================================
+     
+     -Jxvzl (aceofdawn) ~ Auth Team
+     -Kaden (k3den) ~ Auth Team
+     -Selvin (c9selvin) ~ Auth Team
+     -Tactical_Hunter (tacticalhunter) ~ Auth Team
+     -Aspect (aspectacly) ~ Auth Team
+     -Professional (deadlycursed) ~ Auth Team
+     
+     ==============================================================
+     
+     -sleepy (ct73yt) ~ AT Interrogation Unit
+     -John ... (mulch.and_microplastics) ~ AT Interrogation Unit
+     
 # PRODUCTS
 *(YOU PAY FIRST)*
 
